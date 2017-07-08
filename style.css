@@ -1,0 +1,31 @@
+body {
+	background: black;
+}
+
+.panel {
+	background-attachment: fixed;
+    font-size: 700px;
+    font-weight: 700;
+    text-align: center;
+    color: #fff;
+    height: 100vh;
+    line-height: 100vh;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.earth {
+	background-image: url('forest.jpg');
+}
+
+.air {
+	background-image: url('cloud.jpg');
+}
+
+.fire {
+	background-image: url('fire.jpg');
+}
+
+.water {
+	background-image: url('water.jpg');
+}
