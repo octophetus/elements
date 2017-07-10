@@ -7,11 +7,12 @@ body {
     font-size: 700px;
     font-weight: 700;
     text-align: center;
-    color: #fff;
+    /*color: #fff;*/
     height: 100vh;
     line-height: 100vh;
     -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    /*-webkit-text-fill-color: transparent;*/
+    color: transparent;
 }
 
 .earth {
